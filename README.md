@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**FranNMK/FranNMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Francis Kienji, a passionate software developer!
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on several many project
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on several projects across different technologies
+- 🌱 I'm currently learning new frameworks and best practices in software development
+- 👯 I'm looking to collaborate on open source projects and innovative solutions
+- 🤔 I'm looking for help with community building and project contributions
+- 💬 Ask me about software development, coding, and technology
+- 📫 How to reach me: frankmk2025@gmail.com
+- ⚡ Fun fact: I love exploring new technologies and building things!
+
+### Skills & Interests
+
+- Software Development
+- Problem Solving
+- Open Source Contributions
+- Continuous Learning
+
+---
+
+Feel free to check out my repositories and reach out if you'd like to collaborate!
