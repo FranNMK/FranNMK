@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Francis Mwangi Kienji (Frank) 👋🏽
+# Hi there, I'm Francis  Kienji  👋🏽
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer+%F0%9F%9A%80;ICT+Diploma+Student+%40+Kigumo+TVC+%F0%9F%8E%93;2026+KATTI+Regional+Champion+%F0%9F%8F%86;Building+Tech+Solutions+for+Africa+%F0%9F%8C%8D;Node.js+%7C+Express+%7C+TiDB+%7C+Django)](https://git.io/typing-svg)
 
