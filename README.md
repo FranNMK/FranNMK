@@ -102,7 +102,7 @@ AI-guided interview platform that turns TVET and technical students' projects in
 
 <div align="center">
 
-*"Build software that works for every Kenyan — on any phone, any network, anywhere."*
+*"Build software that works for every Person — on any phone, any network, anywhere."*
 
 [![Visitor Count](https://visitor-badge.vercel.app/badge?page_id=FranNMK.FranNMK&left_color=grey&right_color=blue)](https://github.com/FranNMK)
 
