@@ -104,7 +104,7 @@ AI-guided interview platform that turns TVET and technical students' projects in
 
 *"Build software that works for every Kenyan — on any phone, any network, anywhere."*
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=FranNMK&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitor-badge.lithub.cc/badge?page_id=FranNMK.FranNMK)](https://github.com/FranNMK)
 
 **Let's connect and build something great together 🚀**
 
