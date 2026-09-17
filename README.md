@@ -77,11 +77,24 @@ AI-guided interview platform that turns TVET and technical students' projects in
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranNMK&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats-five-eosin-65.vercel.app/api?username=FranNMK&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=FranNMK&theme=dark&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FranNMK&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<table>
+<tr>
+<td>
+
+![Streak Stats](https://streak-stats.demolab.com?user=FranNMK&theme=dark&hide_border=true)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats-five-eosin-65.vercel.app/api/top-langs/?username=FranNMK&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</td>
+</tr>
+</table>
 
 </div>
 
